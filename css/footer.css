@@ -1,0 +1,29 @@
+footer {
+    background: #EFEFEF;
+    padding: 25px 0;
+}
+.footer__text1{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    float: left;
+    color: #828282;
+
+}
+
+.footer__text2{
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    float: right;
+    
+}
+
+.pol{
+    color: #828282;
+}

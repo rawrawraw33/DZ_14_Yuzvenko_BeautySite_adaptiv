@@ -1,0 +1,60 @@
+i {
+    
+    text-align: center;
+    border: 2px solid #F13C6E;
+    margin-right: 10px;
+    font-size: 29px;
+    border-radius: 30px;
+    padding: 8px;
+    color: #F13C6E;
+    transition: all 500ms ease; 
+}
+
+i:hover {
+    width: 50px;
+    color: #fff;
+    background-color: #F13C6E;
+    border: 2px solid #fff;
+}
+.section4__cards__buy:hover{
+
+    color: #F13C6E;
+    background-color: #fff;
+    border: 1px solid #F13C6E ;
+    
+}
+.section3__text span:hover{
+    color: #F13C6E;
+    background-color: #fff;
+    border: 1px solid #F13C6E ;
+    
+}
+.section1 span:hover , .section6 span:hover {
+    color: #fff;
+    background-color: #F13C6E;
+    
+    
+}
+.inpt_2:hover {
+    color: #F13C6E;
+    background-color: #fff;
+
+}
+
+
+.cat__other li a{
+    transition: all 500ms ease; 
+    border-bottom: 1px solid #fff;
+}
+
+.cat__other li a:hover{
+    color: #F13C6E;
+    left: 10px;
+    border-bottom: 1px solid #F13C6E;
+    opacity: 0.5;
+    
+    
+    
+}
+
+

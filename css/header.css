@@ -1,0 +1,22 @@
+
+header {
+    background-color: #E5E5E5;
+    padding: 4px 0px;
+    
+}
+
+.navigation {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #333333;
+    text-align: center
+}
+
+
+.nav__item{
+    display: inline-block;
+    margin: 0px 15px;
+}
